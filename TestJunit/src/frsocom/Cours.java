@@ -5,5 +5,6 @@ public class Cours {
 		System.out.println("Le nombre de cours est : "+nb);
 		return nb;
 	}
+	//
 
 }
